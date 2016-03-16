@@ -1,0 +1,28 @@
+name: manubergman
+favicon: null
+layout_spectrum: 0.17506158282049
+typography_spectrum: 0.2851889750454575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9655872227158397
+  lightness: 0.41682530264370143
+  saturation: 0.6085161531809717
+  rhythmicContrast: 0.46431934530846775
+purpose: []
